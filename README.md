@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @deepakumar-dev-creater
-- 👀 I’m interested in ...webapps-mobileapps-some challenging task
-- 🌱 I’m currently learning ...Dart-node.js-api   
+- 👀 I’m interested in ...webapps-mobileapps-some challenging task  
 - 💞️ I’m looking to collaborate on ...internship-projects
 - 📫 How to reach me ...https://www.linkedin.com/in/deepak-kumar-2750b216a/
 
