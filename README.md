@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on ...internship-projects
 - 🌱 I’m currently learning React and Angular 🤦‍♂.<br/>
 - 📫 How to reach me ...https://www.linkedin.com/in/deepak-kumar-2750b216a/
-- ⚡ Bla bla bla...
 
 <!---
 deepakumar-dev-creater/deepakumar-dev-creater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
