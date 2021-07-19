@@ -1,6 +1,6 @@
 ### Hi there, I'm [(Deepakkumar)](#) 👋
 
--🏠 I’m currently living at Chennai <br/>
+-🏠 I’m currently living in Chennai <br/>
 - 👀 I’m interested in ...webapps-mobileapps-some challenging task  
 - 💞️ I’m looking to collaborate on ...internship-projects
 - 🌱 I’m currently learning React and Angular 🤦‍♂.<br/>
